@@ -92,7 +92,7 @@ The service should connect to the both the suppliers using HTTP.
 **What you need to provide:**
 
 - A solution that meets the above requirements.
-- Clean code.
+- Write clean, maintainable code following established design principles (e.g., SOLID) and coding standards.
 - Ensure the code is extensible to multiple suppliers.
 - There is no need to complete the 100% of the exercise, as long as you show that you are in the right path, you solution is scalable, the testing is good and that you understand OO principles we will be happy.
 
