@@ -92,14 +92,13 @@ The service should connect to the both the suppliers using HTTP.
 **What you need to provide:**
 
 - A solution that meets the above requirements.
-- Clean code using OO design principles
+- Write clean, maintainable code following established design principles (e.g., SOLID) and coding standards.
 - Ensure the code is extensible to multiple suppliers.
 - There is no need to complete the 100% of the exercise, as long as you show that you are in the right path, you solution is scalable, the testing is good and that you understand OO principles we will be happy.
 
 - Use the Streams
-- Good use of Spring annotations and use of Spring Boot, Spring MVC, and Spring Data
+- Good use of Spring
 - Use of ControllerAdvice (or equivalent) for error handling
-
 
 - Implement good unit testing, there is no need for 100% coverage, we want to check your unit testing practices
 - At least one Spring integration tests, the full happy path. Mock suppliers responses using wiremock, or just mock the method when the supplier retrieves data.
