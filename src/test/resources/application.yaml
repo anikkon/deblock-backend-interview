@@ -1,0 +1,5 @@
+suppliers:
+  crazyair:
+    url: http://localhost:8080/crazyair
+  toughjet:
+    url: http://localhost:8080/toughjet

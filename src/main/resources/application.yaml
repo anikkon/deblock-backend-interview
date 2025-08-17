@@ -1,0 +1,5 @@
+suppliers:
+  crazyair:
+    url: http://crazyair-supplier/api/search
+  toughjet:
+    url: http://toughjet-supplier/api/search
